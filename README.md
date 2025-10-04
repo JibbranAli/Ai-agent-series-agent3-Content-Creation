@@ -858,17 +858,12 @@ For questions or issues:
 
 **Ready to create amazing content?** Run `python content_ui_simple.py` to get started! 🚀
 
-## 🎉 Success Stories
-
-### Startup Founder
-*"This agent helped me create 20 blog posts in 2 hours. The professional tone and startup-focused content was exactly what I needed for our company blog."*
-
-### Marketing Professional
-*"The social media campaign feature is incredible. I generated platform-specific content for LinkedIn, Twitter, and Instagram in minutes. The engagement rates improved by 40%."*
-
-### Tech Lead
-*"Perfect for creating technical newsletters and email campaigns. The tech-focused audience targeting makes the content highly relevant to our team."*
-
 ---
 
 **Start creating professional content today!** 🚀
+
+## 👨‍💻 Author
+
+**Created by Syed Jibbran Ali**
+
+This open-source Content Creation Agent was developed to help creators, marketers, and businesses generate high-quality content across multiple formats efficiently and effectively.
